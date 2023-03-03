@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Framework
+Since I have been working on vuejs for a long time, I preferred this framework. Data manipulation and sharing is easier than angular for me.
